@@ -1,0 +1,14 @@
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\bin\Debug\net10.0\Tugas 2.2.exe
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\bin\Debug\net10.0\Tugas 2.2.deps.json
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\bin\Debug\net10.0\Tugas 2.2.runtimeconfig.json
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\bin\Debug\net10.0\Tugas 2.2.dll
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\bin\Debug\net10.0\Tugas 2.2.pdb
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.AssemblyInfoInputs.cache
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.AssemblyInfo.cs
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.csproj.CoreCompileInputs.cache
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.dll
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\refint\Tugas 2.2.dll
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.pdb
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\Tugas 2.2.genruntimeconfig.cache
+D:\Berwyn\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (PBKK)\Tugas 2.2\obj\Debug\net10.0\ref\Tugas 2.2.dll
